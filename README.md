@@ -75,7 +75,7 @@ This project analyzes India's agricultural crop production data from **1997 to 2
 
 ##  Authors
 
-**Bangaru Vallepu**,**Anuradha Danaboina**,**Siva Naga Lakshmi Boddula** 
+**Bangaru Vallepu**, **Anuradha Danaboina**, **Siva Naga Lakshmi Boddula** 
 
  bangaruvallepu@gmail.com
 
